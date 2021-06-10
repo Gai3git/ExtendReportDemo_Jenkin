@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="57558" started-at="2021-06-09T15:50:50 EDT" finished-at="2021-06-09T15:51:48 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="57558" started-at="2021-06-09T15:50:50 EDT" finished-at="2021-06-09T15:51:48 EDT">
+      <class name="com.Website.ExtentReport.ExtentReportTestNG2">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.Website.ExtentReport.ExtentReportTestNG2@4d41cee]" name="setup" is-config="true" duration-ms="11102" started-at="2021-06-09T15:50:39 EDT" finished-at="2021-06-09T15:50:50 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.Website.ExtentReport.ExtentReportTestNG2@4d41cee]" name="test2" duration-ms="31428" started-at="2021-06-09T15:50:50 EDT" finished-at="2021-06-09T15:51:22 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test1()[pri:1, instance:com.Website.ExtentReport.ExtentReportTestNG2@4d41cee]" name="test1" duration-ms="25921" started-at="2021-06-09T15:51:22 EDT" finished-at="2021-06-09T15:51:48 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Website.ExtentReport.ExtentReportTestNG2@4d41cee]" name="tearDown" is-config="true" duration-ms="4168" started-at="2021-06-09T15:51:48 EDT" finished-at="2021-06-09T15:51:52 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Website.ExtentReport.ExtentReportTestNG2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

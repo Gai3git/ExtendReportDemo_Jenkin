@@ -1,0 +1,14 @@
+
+Links Referred:
+https://medium.com/test-automation-hub/how-to-use-extent-reports-with-testng-in-selenium-java-c892cf256737
+https://www.swtestacademy.com/extent-reports-in-selenium-with-testng/
+Create a SImple Maven Project
+Add selenium,WebDriverManager,testng,extendReport dependencies in pom.xml
+Add surefire plugin in pom.xml
+
+
+
+Calling the flush the method writes/updates the test information of your reporter to the destination type.
+ otherwise, if you do not use this you will not see any error in your program because you won’t get any report.
+ 
+ the extend report is created in the test-output folder where testng's index.html is generated as well.
